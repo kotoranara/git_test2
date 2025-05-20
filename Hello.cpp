@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main(voidd){
+int main(void){
 cout << "Hello,World" << endl;
 cout << "change,Git" << endl;
 
